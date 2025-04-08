@@ -46,6 +46,7 @@
                             </div>
                             <button type="submit" class="btn btn-success btn-block">Change Password</button>
                         </form>
+                        
                     </div>
                 </div>
            	</div>
